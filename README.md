@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=java,html,python,figma,laravel,php&theme=light)](https://skillicons.dev)
 
 
-
-
+[![Angelina's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelinasitumorang)]
