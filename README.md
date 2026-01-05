@@ -1,4 +1,4 @@
-## Hi 👋 I'm Angelina
+## Hi 👋 I'm Angelina 👩‍💻
 
 <!--
 **angelinasitumorang2005-svg/angelinasitumorang2005-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=java,html,python,figma,laravel,php&theme=light)](https://skillicons.dev)
 
 
+##### My Github Stats
 
+[![Angelina's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelinasitumorang)]
 
